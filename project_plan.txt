@@ -1,2 +1,5 @@
 Step 1
 figure out what I want to build
+
+
+Idea 1, build a battle robot.
